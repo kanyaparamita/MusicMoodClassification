@@ -2,3 +2,4 @@
 **/.DS_Store
 data/features/blf_features.txt
 src/dataprep/mood_labels_clustering2.ipynb
+plots/moods_similarity_hierarchy2.png
